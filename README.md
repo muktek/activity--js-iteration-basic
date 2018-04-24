@@ -1,4 +1,4 @@
-# JS Functions Basic Warmup
+# JS Iteration Basic Warmup
 
 ### Setup
 
