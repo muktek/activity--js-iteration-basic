@@ -29,9 +29,9 @@ console.assert(outputArray_1[1] === 7)
 var exampleArray_2 = [10,12,30,4,2,16,7,88]
 var outputArray_2 = getAllGreaterThan(10, exampleArray_2 )
 console.assert(outputArray_2.length === 4 )
-console.assert(outputArray_1[0] === 12)
-console.assert(outputArray_1[1] === 30)
-console.assert(outputArray_1[3] === 88)
+console.assert(outputArray_2[0] === 12)
+console.assert(outputArray_2[1] === 30)
+console.assert(outputArray_2[3] === 88)
 
 
 var exampleArray_3 = [10,12,30,4,2,16,7,88]
